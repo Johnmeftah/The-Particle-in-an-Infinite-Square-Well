@@ -13,6 +13,10 @@ The infinite square-well potential is a fundamental model in quantum mechanics, 
 
 For this system, the Schrödinger wave equation is defined as:
 
+![Equation 1](eq_1.png)
+
+
+
 \[
 V(x) = 
 \begin{cases} 
