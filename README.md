@@ -17,31 +17,20 @@ For this system, the Schrödinger wave equation is defined as:
 
 
 
-\[
-V(x) = 
-\begin{cases} 
-\infty & \text{for } x \leq 0, x \geq L, \\
-0 & \text{for } 0 < x < L.
-\end{cases}
-\]
-
 Within the well, the particle is free, and the wave function \( \psi(x) \) satisfies the time-independent Schrödinger equation with \( V = 0 \):
 
-\[
-\frac{d^2\psi}{dx^2} = -k^2\psi,
-\]
+![Equation 1](eq_2.png)
+
 
 where \( k \) is related to the energy \( E \) by \( k = \sqrt{2mE/\hbar^2} \). The general solution to this equation is a superposition of sine and cosine functions:
 
-\[
-\psi(x) = A \sin(kx) + B \cos(kx),
-\]
+![Equation 1](eq_3.png)
+
 
 To satisfy the boundary conditions (\( \psi(0) = \psi(L) = 0 \)), we find \( B = 0 \) and \( kL = n\pi \), where \( n \) is a positive integer. This leads to the quantized wave functions:
 
-\[
-\psi_n(x) = A \sin\left(\frac{n\pi x}{L}\right), \quad n = 1, 2, 3, \ldots
-\]
+![Equation 1](eq_4.png)
+
 
 ## Analysis
 
