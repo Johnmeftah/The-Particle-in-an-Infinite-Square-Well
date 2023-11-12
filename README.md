@@ -38,6 +38,7 @@ These equations serve as the basis for our analysis of the probability density a
 
 > **Reference:**  
 > Stephen T. Thornton and Andrew Rex. *Modern Physics for Scientists and Engineers*. 4th ed. 2012
+> > **Reference:**  
 > Matthew Civiletti. Modern Physics. *A modern introduction*. 1st ed. 2023
 
 
