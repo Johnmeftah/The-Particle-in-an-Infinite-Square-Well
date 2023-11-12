@@ -37,6 +37,7 @@ To satisfy the boundary conditions (\( \psi(0) = \psi(L) = 0 \)), we find \( B =
 These equations serve as the basis for our analysis of the probability density and energy levels of the particle in the infinite square-well potential.
 
 > **Reference:**  
-> Stephen T. Thornton and Andrew Rex. *Modern Physics for Scientists and Engineers*. 4th ed. 2012, p. 212.
+> Stephen T. Thornton and Andrew Rex. *Modern Physics for Scientists and Engineers*. 4th ed. 2012
+> Matthew Civiletti. Modern Physics. *A modern introduction*. 1st ed. 2023
 
 
